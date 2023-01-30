@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Isaac Saad
+N:Saad;Isaac;;;
+item1.EMAIL;TYPE=INTERNET:isaac.sad1212@gmail.com
+item1.X-ABLabel:
+TEL;TYPE=CELL:0122 438 9427
+item2.ORG:Cairo Exchange
+item2.X-ABLabel:
+item3.TITLE:Purchasing Manager
+item3.X-ABLabel:
+BDAY:19601212
+PHOTO:https://lh3.googleusercontent.com/contacts/ANvYiofhNmDSpvlimkDppANOWs
+ TKeKOkk2J19TGAioMPiEnRBvRwc2Uk
+CATEGORIES:myContacts,starred
+END:VCARD

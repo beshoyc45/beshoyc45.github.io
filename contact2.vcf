@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Beshoy Isaac
+N:Isaac;Beshoy;;;
+item1.EMAIL;TYPE=INTERNET:beshoy.eskandar@eg.ey.com
+item1.X-ABLabel:Work Email
+item2.EMAIL;TYPE=INTERNET:beshoy.isaac.saad@gmail.com
+item2.X-ABLabel:Personal Email
+TEL;TYPE=WORK:0100 369 1298
+TEL;TYPE=WORK:+20 1277560534
+item3.ORG:EY
+item3.X-ABLabel:
+item4.TITLE:Senior Auditor
+item4.X-ABLabel:
+BDAY:19940418
+PHOTO:https://lh3.googleusercontent.com/contacts/ANvYiofldyxFKSwUcEYELwQIw3
+ g_6cYJRTkPjSl0nbOD9V_wxwT8zMFf
+CATEGORIES:myContacts
+END:VCARD
